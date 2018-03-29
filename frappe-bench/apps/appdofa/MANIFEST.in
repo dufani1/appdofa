@@ -1,0 +1,18 @@
+include MANIFEST.in
+include requirements.txt
+include *.json
+include *.md
+include *.py
+include *.txt
+recursive-include appdofa *.css
+recursive-include appdofa *.csv
+recursive-include appdofa *.html
+recursive-include appdofa *.ico
+recursive-include appdofa *.js
+recursive-include appdofa *.json
+recursive-include appdofa *.md
+recursive-include appdofa *.png
+recursive-include appdofa *.py
+recursive-include appdofa *.svg
+recursive-include appdofa *.txt
+recursive-exclude appdofa *.pyc
