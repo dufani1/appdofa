@@ -6,8 +6,3 @@ frappe.ui.form.on('fra1', {
 
 	}
 });
-frappe.ui.form.on('fra1', {
-	refresh: function(frm) {
-
-	}
-});
